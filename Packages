@@ -1,0 +1,24 @@
+Package: htop
+Version: 3.3.0
+Architecture: musl-linux-riscv64
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Filename: ./debs/htop.deb
+Size: 140318
+MD5sum: 746560685682c4a494e6205779be403b
+SHA1: 2ac829e504b129f5c787d0f79212ffe00c5bdd26
+SHA256: ba1942afaab72c906f8af45a69be5345676115a0cffadd9b20346335104258c7
+Section: utils
+Description: interactive processes viewer
+
+Package: pfetch
+Version: 1.9.1
+Architecture: all
+Maintainer: Uniq <joey.t.reinhart@gmail.com>
+Filename: ./debs/pfetch.deb
+Size: 23652
+MD5sum: caf3f8a7d8a3d2844cf3006c6bb80ecd
+SHA1: ed1582eef7ea09c74f794319c589ecb1f04fd291
+SHA256: 6de974874b382e79902f3566139d0302a4a350f3fa9e7c6fd04ed95ee05c5c27
+Section: utils
+Description: A pretty system information tool written in POSIX sh
+
