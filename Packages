@@ -1,12 +1,12 @@
 Package: htop
-Version: 3.3.0
+Version: 3.4.1
 Architecture: musl-linux-riscv64
 Maintainer: Uniq <joey.t.reinhart@gmail.com>
 Filename: ./debs/htop.deb
-Size: 140318
-MD5sum: 746560685682c4a494e6205779be403b
-SHA1: 2ac829e504b129f5c787d0f79212ffe00c5bdd26
-SHA256: ba1942afaab72c906f8af45a69be5345676115a0cffadd9b20346335104258c7
+Size: 140306
+MD5sum: 6e48cf90e14a36fcd9de116938004db6
+SHA1: eb5bf8bca5cccebf566a869ede8f272aa06e37a6
+SHA256: cecbd35f97d8446ceb0c05a56a061becc2b5fc3d92046e91ba8301399ea05892
 Section: utils
 Description: interactive processes viewer
 
